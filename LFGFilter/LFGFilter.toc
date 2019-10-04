@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: LFG Filter
+## Notes: Filters the LFG channel to only show messages about the dungeon you are interested in.
+## Author: Keless
+## Version: 0.1
+
+main.lua
